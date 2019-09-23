@@ -29,7 +29,7 @@ In this challenge you are tasked with building a classifier to separate out real
 ### Not at the hackathon, but want to test your code-building skills? Feel free!
 
 ```bash
-> git clone https://github.com/darabigdata/IDWBotswana.git
+> git clone https://github.com/darabigdata/WindhoekHack.git
 ```
 
 Then make sure you have the right Python libraries for the tutorials. They can all be installed using pip and the [requirements.txt](https://github.com/darabigdata/WindhoekHack/blob/master/requirements.txt) file in the repo:
