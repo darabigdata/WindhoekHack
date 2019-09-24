@@ -11,7 +11,7 @@
 
 
 ## Introduction
- Welcome to the [DARA Big Data](https://www.darabigdata.com) project hackathon at the University of Namibia! <img src="https://github.com/darabigdata/WindhoekHack/blob/master/media/Namibia_120-animated-flag-gifs.gif" width=5%>
+ Welcome to the [DARA Big Data](https://www.darabigdata.com) project hackathon at the Namibia University of Science and Technology! <img src="https://github.com/darabigdata/WindhoekHack/blob/master/media/Namibia_120-animated-flag-gifs.gif" width=5%>
 
 The DARA Big Data hackathon is designed to help you improve your data science skills in a friendly and supportive environment. At the hackathon, you will be grouped into **teams of four** and each team will work on completing the hack challenge. At the end of the hack each team will give a 5 minute (3 slide) presentation on the results of their challenge. These presentations will be judged by the organisers and there will be a prize for the winning team. The presentations will be judged on (1) the accuracy of the predicted results via machine learning and (2) visualisation/presentation of the data and results.
 
