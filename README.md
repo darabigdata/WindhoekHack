@@ -43,4 +43,4 @@ Then make sure you have the right Python libraries for the tutorials. They can a
 
 ### DARA Big Data is supported by:
 
-<p align="center"><img width=20% src="https://github.com/darabigdata/IDWBotswana/blob/master/media/Newton-Fund-Master-rgb.jpg", hspace="20"><img width=40% src="https://github.com/darabigdata/IDWBotswana/blob/master/media/stfc_logo.png", hspace="20"><img width=20% src="https://github.com/darabigdata/IDWBotswana/blob/master/media/dst_logo_crop.jpeg"></p>
+<p align="center"><img width=20% src="https://github.com/darabigdata/IDWBotswana/blob/master/media/Newton-Fund-Master-rgb.jpg", hspace="20"><img width=40% src="https://github.com/darabigdata/IDWBotswana/blob/master/media/stfc_logo.png", hspace="20"><img width=20% src="https://github.com/darabigdata/IDWBotswana/blob/master/media/dst_logo_crop.jpeg"><img width=20% src="https://github.com/darabigdata/WindhoekHack/blob/master/media/idia_logo.png"></p>
